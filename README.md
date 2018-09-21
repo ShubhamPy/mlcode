@@ -14,3 +14,7 @@ I would highly recommend that before the hack night you have some kind of toolch
 
 ## Datasets
 Here are some datasets which i work during this ml practicing.
+
+## Resources
+- [kaggle](https://www.kaggle.com/)
+- [sklearn](http://scikit-learn.org/stable/)
